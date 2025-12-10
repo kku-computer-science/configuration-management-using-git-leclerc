@@ -22,9 +22,9 @@ SortAlgo
 
 | คน         | หน้าที่                | Branch         |
 | -------    | -------------------- | -------------- |
-| panawat    | Bubble Sort          | `bubble-sort`  |
-| kriangkrai | Quick Sort           | `quick-sort`   |
-| piti       | Main program + Merge | `main-program` |
+| panawat    | Bubble Sort          | `panawat_390-4`  |
+| kriangkrai | Quick Sort           | `kriangkrai_616-4`   |
+| piti       | Main program + Merge | `piti_045-1` |
 
 แต่ละคน clone โปรเจกต์:
 
@@ -126,4 +126,5 @@ git pull origin main
 5. Review + Merge
 6. ทุกคน pull งานรวม
 ```
+
 
